@@ -24,7 +24,7 @@ header a:hover{
   color: black;
 }
 .parllex{
-  background-image: url("file:///home/asmitha/Downloads/html-css-assignment/img/1.jpg");
+  background-image: url("../img/1.jpg");
   height: 900px; 
   background-attachment: fixed;
   background-position: center;
@@ -41,7 +41,7 @@ section img{
 
 }
 .hero{
-  background-image: url("file:///home/asmitha/Downloads/html-css-assignment/img/2.jpg");
+  background-image: url("../img/2.jpg");
   height: 200px;
   background-position: center;
   background-repeat: no-repeat;
