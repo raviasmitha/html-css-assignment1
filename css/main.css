@@ -80,5 +80,8 @@ footer i{
   size: 50px;
 }
 footer{
-  background-color: lavender;
+    background: #333;
+    color: #eee;
+    font-size: 11px;
+    padding: 20px;
 }
